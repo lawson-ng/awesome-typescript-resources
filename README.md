@@ -1,4 +1,4 @@
-# Awesome typescript resources
+# Awesome Typescript Resources 📚
 
 ## Contents
 
