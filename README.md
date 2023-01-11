@@ -3,6 +3,7 @@
 ## Contents
 
 - [Documentations](#documentations)
+- [Workshop](#workshop)
 - [Youtube Channels](#youtube-channels)
 
 ## Documentations
@@ -19,14 +20,16 @@
 
 [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 
+[ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
+
+
+## Workshop
+
 [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
 
 [total-typescript/advanced-patterns-workshop](https://github.com/total-typescript/advanced-patterns-workshop) - An interactive TypeScript repo on advanced patterns (WIP)
 
 [total-typescript/type-transformations-workshop](https://github.com/total-typescript/type-transformations-workshop) - Master transforming types in TypeScript
-
-[ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
-
 
 
 ## Youtube Channels
