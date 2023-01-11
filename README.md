@@ -1,6 +1,11 @@
 # Awesome typescript resources
 
-## Documentations 📚
+## Contents
+
+- [Documentations](#documentations)
+- [Youtube Channels](#youtube-channels)
+
+## Documentations
 
 [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 
