@@ -37,4 +37,5 @@
 
 - [Basarat](https://www.youtube.com/@basarat)
 - [Matt Pocock](https://www.youtube.com/@mattpocockuk)
+- [CoderOne](https://www.youtube.com/@CoderOne)
 
